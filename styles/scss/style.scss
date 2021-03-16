@@ -1,0 +1,18 @@
+@import 'variables';
+@import 'animations';
+@import 'mixins';
+@import 'globals';
+
+// Navbars
+@import 'navbars/example-one.scss';
+
+// Articles
+@import 'articles/example-one.scss';
+@import 'articles/example-two.scss';
+
+// Footers
+@import 'footers/example-one.scss';
+
+// Utils
+@import 'utils/dynamicSearch.scss';
+@import 'utils/scrolltotop.scss';
